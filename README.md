@@ -1,7 +1,5 @@
 # NEOLAB
 
-![Illustration](images/Uneg_wrt_t.png)
-
 ---
 
 **Authors**: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
@@ -21,6 +19,8 @@ behind the lead electrode used as the negative electrode. A study to optimize th
 of equations scaling. 
 The toolbox consists of two Scilab routines, the main one in which are set up all the varibles, and a second one computating the residue of the equations.
 The resolution of equations is done with a Scilab differential/algebraic system solver.
+
+![Illustration](images/Uneg_wrt_t.png)
 
 ---
 
@@ -43,6 +43,7 @@ If you have any problems or questions, please contact the author: Mikaël Cugnet
 ## Files and folders
 | File/Folder | Description |
 |----------|-------------|
+| images  |  Folder of images |
 | README.md  |  Basic information (this file) |
 | Licence  |  Licence information |
 | data.sod  |  Experimental data |
