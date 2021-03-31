@@ -1,6 +1,7 @@
 # NEOLAB
 
-![Illustration](https://github.com/FlorianGallois/NEOLAB/images/Uneg_wrt_t.png "Illustration")
+![Illustration](images/Uneg_wrt_t.png)
+
 ---
 
 **Authors**: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
