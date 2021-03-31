@@ -26,7 +26,12 @@ The resolution of equations is done with a Scilab differential/algebraic system 
 
 ## Download and install
 All the user needs to do is downloading the last version of Scilab (6.1.0) and open the main file. When compilling the program, 
-the path to the residue function must be specified. The user has the choice to proceed the simulation with both dimensional and dimensionless methods. 
+the path to the residue function must be specified:  
+```matlab
+addpath /path/to/NEOLAB
+``` 
+
+The user has the choice to proceed the simulation with both dimensional and dimensionless methods.
 
 ---
 
@@ -37,9 +42,8 @@ If you have any problems or questions, please contact the author: Mikaël Cugnet
 
 ## Files and folders
 * README.md: Basic information (this file)
-* CoA.txt: Authors' identity and contributions
 * Licence.txt: Licence information
-*data.sod: Experimental data
+* data.sod: Experimental data
 * main_dassl_dim.sce: Main routine using dassl solver and dimensional method 
 * main_dassl_adim.sce: Main routine using dassl solver and dimensionless method
 * main_dassl_dim_tol.sce: Main routine using dassl solver and dimensional method, with a tolerence study
@@ -48,3 +52,7 @@ If you have any problems or questions, please contact the author: Mikaël Cugnet
 * res_dassl_adim.sci: Residue function using dassl solver and dimensinless method
 * res_dassl_dim_tol.sci: Residue function using dassl solver and dimensinal method, with a tolerence study
 * res_dassl_adim_tol.sci: Residue function using dassl solver and dimensinless method, with a tolerence study
+
+---
+
+## References
