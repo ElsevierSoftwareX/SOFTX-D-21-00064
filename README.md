@@ -41,17 +41,20 @@ If you have any problems or questions, please contact the author: Mikaël Cugnet
 ---
 
 ## Files and folders
-* README.md: Basic information (this file)
-* Licence.txt: Licence information
-* data.sod: Experimental data
-* main_dassl_dim.sce: Main routine using dassl solver and dimensional method 
-* main_dassl_adim.sce: Main routine using dassl solver and dimensionless method
-* main_dassl_dim_tol.sce: Main routine using dassl solver and dimensional method, with a tolerence study
-* main_dassl_adim_tol.sce: Main routine using dassl solver and dimensionless method, with a tolerence study
-* res_dassl_dim.sci: Residue function using dassl solver and dimensinal method
-* res_dassl_adim.sci: Residue function using dassl solver and dimensinless method
-* res_dassl_dim_tol.sci: Residue function using dassl solver and dimensinal method, with a tolerence study
-* res_dassl_adim_tol.sci: Residue function using dassl solver and dimensinless method, with a tolerence study
+| File/Folder | Description |
+|----------|-------------|
+| README.md  |  Basic information (this file) |
+| Licence  |  Licence information |
+| data.sod  |  Experimental data |
+| main_dassl_dim.sce  |  Main routine using dassl solver and dimensional method |
+| main_dassl_adim.sce  |  Main routine using dassl solver and dimensionless method |
+| main_dassl_dim_tol.sce  |  Main routine using dassl solver and dimensional method, with a tolerence study |
+| main_dassl_adim_tol.sce  |  Main routine using dassl solver and dimensionless method, with a tolerence study |
+| res_dassl_dim.sci  |  Residue function using dassl solver and dimensinal method |
+| res_dassl_adim.sci  |  Residue function using dassl solver and dimensinless method |
+| res_dassl_dim_tol.sci  |  Residue function using dassl solver and dimensinal method, with a tolerence study |
+| res_dassl_adim_tol.sci  |  Residue function using dassl solver and dimensinless method, with a tolerence study |
+
 
 ---
 
