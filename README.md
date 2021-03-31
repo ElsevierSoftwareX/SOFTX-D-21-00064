@@ -1,14 +1,15 @@
 # NEOLAB
 
+![Illustration](https://github.com/FlorianGallois/NEOLAB/images/Uneg_wrt_t.png "Illustration")
 ---
 
-*Authors*: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
+**Authors**: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
 
-*Last page update*: April 02, 2021
+**Last page update**: April 02, 2021
 
-*Latest version*: 6.1.0
+**Latest version**: 6.1.0
 
-*Licence*: GNU Lesser General Public License (2.1)
+**Licence**: GNU Lesser General Public License (2.1)
 
 ---
 
