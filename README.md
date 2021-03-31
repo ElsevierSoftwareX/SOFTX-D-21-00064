@@ -20,9 +20,8 @@ of equations scaling.
 The toolbox consists of two Scilab routines, the main one in which are set up all the varibles, and a second one computating the residue of the equations.
 The resolution of equations is done with a Scilab differential/algebraic system solver.
 
-<p align="center">
-<![Illustration](images/Uneg_wrt_t.png)>
-</p>
+![Illustration](images/Uneg_wrt_t.png) {.center}
+
 
 ---
 
