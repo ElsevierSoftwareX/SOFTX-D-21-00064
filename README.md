@@ -2,11 +2,13 @@
 
 ---
 
-Authors: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
-Last page update: April 02, 2021
-Latest version: 6.1.0
-Licence: Free software that can be redistributed and/or modified under the terms of the GNU Lesser General Public License 
-as published by the Free Software Foundation
+*Authors*: Mikaël Cugnet, Florian Gallois, Angel Kirchev, Denys Dutykh
+
+*Last page update*: April 02, 2021
+
+*Latest version*: 6.1.0
+
+*Licence*: GNU Lesser General Public License (2.1)
 
 ---
 
