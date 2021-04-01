@@ -6,7 +6,9 @@
 
 **Last page update**: April 02, 2021
 
-**Latest version**: 6.1.0
+**Latest version**: 1.0
+
+**Supported Scilab version**: 6.1.0
 
 **Licence**: GNU Lesser General Public License (2.1)
 
