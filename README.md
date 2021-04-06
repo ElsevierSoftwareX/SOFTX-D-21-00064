@@ -71,3 +71,4 @@ If you have any problems or questions, please contact the author: Mikaël Cugnet
 ---
 
 ## References
+1. M.Cugnet, F.Gallois, A.Kirchev, D.Dutykh: NEOLAB: A Scilab tool to simulate the Negative Electrode of Lead-Acid Batteries. Software X, 2021. (Submitted)
