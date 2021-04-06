@@ -22,8 +22,8 @@ Based on the idea that a minimum working example is the best way to learn gradua
 NEOLAB provides a solution to simulate the behavior of the negative electrode of lead-acid batteries 
 and a framework to investigate other primary and secondary technologies.
 
-![Illustration](images/Graphical_Abstract.png | width=75)
-![Illustration](images/Uneg_wrt_t.png | width=75)
+![Illustration](images/Graphical_Abstract.png)
+![Illustration](images/Uneg_wrt_t.png)
 
 A study to optimize the performance of the software has been carried out, in particular the impact 
 of equations scaling. 
