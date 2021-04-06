@@ -26,7 +26,7 @@ path = input("Enter the path (Ex: C:\Lead_Electrode) : ", "string")
 exec(path+'\res_dassl_dim.sci');
 
 // Experimental data
-load(path+"\data.sod");
+load(path+"\data\data.sod");
 
 
 
